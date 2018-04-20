@@ -1,0 +1,227 @@
+Name,Host,Dopants,Dopant Charge,Structure,Excitation,Emission,FWHM,Color,QE,Book Chapter
+CaO:Bi3+,CaO,Bi,3,Cubic_NaCl,3.40,3.17,0.29,Violet,2,Simple_Oxides
+CaO:Cd2+,CaO,Cd,2,Cubic_NaCl,4.88,3.95,0.63,UV,0,Simple_Oxides
+CaO:Cd2+,CaO,Cd,2,Cubic_NaCl,3.40,3.95,0.63,UV,0,Simple_Oxides
+CaO:Cu1+,CaO,Cu,1,Cubic_NaCl,4.88,2.77,0.75,Blue,1,Simple_Oxides
+CaO:Cu1+,CaO,Cu,1,Cubic_NaCl,3.40,2.77,0.75,Blue,0,Simple_Oxides
+CaO:Cu1+,CaO,Cu,1,Cubic_NaCl,4.88,3.18,0.75,UV,1,Simple_Oxides
+CaO:Cu1+,CaO,Cu,1,Cubic_NaCl,3.40,3.18,0.75,UV,0,Simple_Oxides
+CaO:Eu3+,CaO,Eu,3,Cubic_NaCl,4.88,2.02,,Red,2,Simple_Oxides
+CaO:Eu3+,CaO,Eu,3,Cubic_NaCl,3.40,2.02,,Red,0,Simple_Oxides
+CaO:Mn2+,CaO,Mn,2,Cubic_NaCl,4.88,2.70,0.20,Orange,0,Simple_Oxides
+CaO:Mn2+,CaO,Mn,2,Cubic_NaCl,3.40,2.70,0.20,Orange,0,Simple_Oxides
+CaO:Pb2+,CaO,Pb,2,Cubic_NaCl,4.88,3.42,0.21,UV,2,Simple_Oxides
+CaO:Pb2+,CaO,Pb,2,Cubic_NaCl,3.40,3.42,0.21,UV,0,Simple_Oxides
+CaO:Sb3+,CaO,Sb,3,Cubic_NaCl,4.88,2.30,0.51,green,0,Simple_Oxides
+CaO:Sb3+,CaO,Sb,3,Cubic_NaCl,3.40,2.30,0.51,green,0,Simple_Oxides
+CaO:Sm3+,CaO,Sm,3,Cubic_NaCl,4.88,2.00,,orange,0,Simple_Oxides
+CaO:Sm3+,CaO,Sm,3,Cubic_NaCl,3.40,2.00,,orange,0,Simple_Oxides
+CaO:Sm3+,CaO,Sm,3,Cubic_NaCl,4.88,2.16,,yellow,0,Simple_Oxides
+CaO:Sm3+,CaO,Sm,3,Cubic_NaCl,3.40,2.16,,yellow,0,Simple_Oxides
+CaO:Tb3+,CaO,Tb,3,Cubic_NaCl,4.88,2.27,,green,1,Simple_Oxides
+CaO:Tb3+,CaO,Tb,3,Cubic_NaCl,3.40,2.27,,green,0,Simple_Oxides
+CaO:Tl1+,CaO,Tl,1,Cubic_NaCl,4.88,2.11,0.48,yellow,1,Simple_Oxides
+CaO:Tl1+,CaO,Tl,1,Cubic_NaCl,3.40,2.11,0.48,yellow,0,Simple_Oxides
+CaO:Tl1+,CaO,Tl,1,Cubic_NaCl,4.88,1.50,0.48,IR,1,Simple_Oxides
+CaO:Tl1+,CaO,Tl,1,Cubic_NaCl,3.40,1.50,0.48,IR,0,Simple_Oxides
+CaO:Zn2+,CaO,Zn,2,Cubic_NaCl,4.88,3.70,,UV,0,Simple_Oxides
+CaO:Zn2+,CaO,Zn,2,Cubic_NaCl,3.40,3.70,,UV,0,Simple_Oxides
+ZnO:Ga3+,ZnO,Ga,3,Hexagonal_Wurtzite,4.88,3.20,,UV,1,Simple_Oxides
+ZnO:Ga3+,ZnO,Ga,3,Hexagonal_Wurtzite,3.40,3.20,,UV,1,Simple_Oxides
+ZnO:S,ZnO,S,0,Hexagonal_Wurtzite,4.88,2.45,0.41,green,1,Simple_Oxides
+ZnO:S,ZnO,S,0,Hexagonal_Wurtzite,3.40,2.45,0.41,green,1,Simple_Oxides
+ZnO:Se,ZnO,Se,0,Hexagonal_Wurtzite,4.88,1.98,0.51,orange,1,Simple_Oxides
+ZnO:Se,ZnO,Se,0,Hexagonal_Wurtzite,3.40,1.98,0.51,orange,1,Simple_Oxides
+ThO2:Eu3+,ThO2,Eu,3,Rutile,4.88,1.97,,red,2,Simple_Oxides
+ThO2:Eu3+,ThO2,Eu,3,Rutile,3.40,1.97,,red,0,Simple_Oxides
+ThO2:Eu3+,ThO2,Eu,3,Rutile,4.88,2.10,,orange,2,Simple_Oxides
+ThO2:Eu3+,ThO2,Eu,3,Rutile,3.40,2.10,,orange,0,Simple_Oxides
+ThO2:Pr3+,ThO2,Pr,3,Rutile,4.88,2.50,,green,1,Simple_Oxides
+ThO2:Pr3+,ThO2,Pr,3,Rutile,3.40,2.50,,green,0,Simple_Oxides
+ThO2:Pr3+,ThO2,Pr,3,Rutile,4.88,1.89,,red,1,Simple_Oxides
+ThO2:Pr3+,ThO2,Pr,3,Rutile,3.40,1.89,,red,0,Simple_Oxides
+ThO2:Tb3+,ThO2,Tb,3,Rutile,4.88,2.29,,orange,1,Simple_Oxides
+ThO2:Tb3+,ThO2,Tb,3,Rutile,3.40,2.29,,orange,0,Simple_Oxides
+ThO2:Tb3+,ThO2,Tb,3,Rutile,4.88,3.25,,UV,1,Simple_Oxides
+ThO2:Tb3+,ThO2,Tb,3,Rutile,3.40,3.25,,UV,0,Simple_Oxides
+Y2O3:Bi3+,Y2O3,Bi,3,Cubic ,4.88,2.35,0.83,green,1,Simple_Oxides
+Y2O3:Bi3+,Y2O3,Bi,3,Cubic ,3.40,2.35,0.83,green,1,Simple_Oxides
+Y2O3:Er3+,Y2O3,Er,3,Cubic ,4.88,2.21,,green,0,Simple_Oxides
+Y2O3:Er3+,Y2O3,Er,3,Cubic ,3.40,2.21,,green,0,Simple_Oxides
+Y2O3:Eu3+,Y2O3,Eu,3,Cubic ,4.88,2.03,,red,2,Simple_Oxides
+Y2O3:Eu3+,Y2O3,Eu,3,Cubic ,3.40,2.03,,red,0,Simple_Oxides
+Y2O3:Ho3+,Y2O3,Ho,3,Cubic ,4.88,2.27,,green,0,Simple_Oxides
+Y2O3:Ho3+,Y2O3,Ho,3,Cubic ,3.40,2.27,,green,0,Simple_Oxides
+Y2O3Tb3+,Y2O3,Tb,3,Cubic ,4.88,2.29,,green,1,Simple_Oxides
+Y2O3Tb3+,Y2O3,Tb,3,Cubic ,3.40,2.29,,green,0,Simple_Oxides
+La2O3:Bi3+,La2O3,Bi,3,Cubic ,4.88,2.67,0.49,blue,2,Simple_Oxides
+La2O3:Bi3+,La2O3,Bi,3,Cubic ,3.40,2.67,0.49,blue,0,Simple_Oxides
+La2O3:Eu3+,La2O3,Eu,3,Cubic ,4.88,1.99,,red,0,Simple_Oxides
+La2O3:Eu3+,La2O3,Eu,3,Cubic ,3.40,1.99,,red,0,Simple_Oxides
+La2O3:Pb2+,La2O3,Pb,2,Cubic ,4.88,2.27,0.51,yellow,2,Simple_Oxides
+La2O3:Pb2+,La2O3,Pb,2,Cubic ,3.40,2.27,0.51,yellow,1,Simple_Oxides
+CaSiO3:Ce3+,CaSiO3,Ce,3,Triclinic_pseudowollastonite,4.88,3.00,,Violet,1,Silicates
+CaSiO3:Eu2+,CaSiO3,Eu,2,Triclinic_pseudowollastonite,4.88,2.93,0.25,Violet,1,Silicates
+CaSiO3:Eu2+,CaSiO3,Eu,2,Triclinic_pseudowollastonite,3.40,2.93,0.25,Violet,1,Silicates
+CaSiO3:Pb2+,CaSiO3,Pb,2,Triclinic_pseudowollastonite,4.88,3.70,0.87,UV,2,Silicates
+CaSiO3:Pb2+,CaSiO3,Pb,2,Triclinic_pseudowollastonite,3.40,3.70,0.87,UV,0,Silicates
+CaSiO3:Ti4+,CaSiO3,Ti,4,Triclinic_pseudowollastonite,4.88,2.93,0.92,blue,1,Silicates
+Be2SiO4:Mn2+,Be2SiO4,Mn,2,Trigonal_phenakite,4.88,1.97,,orange,0,Silicates
+Be2SiO4:Mn2+,Be2SiO4,Mn,2,Trigonal_phenakite,3.40,1.97,,orange,0,Silicates
+Mg2SiO4:Mn2+,Mg2SiO4,Mn,2,Orthorhombic_forsterite,4.88,1.88,,red,0,Silicates
+Mg2SiO4:Mn2+,Mg2SiO4,Mn,2,Orthorhombic_forsterite,3.40,1.88,,red,0,Silicates
+Zn2SiO4:Mn2+,Zn2SiO4,Mn,2,Trigonal_willemite,4.88,2.35,0.18,green,2,Silicates
+Zn2SiO4:Mn2+,Zn2SiO4,Mn,2,Trigonal_willemite,3.40,2.35,0.18,green,0,Silicates
+Zn2SiO4:Ti4+,Zn2SiO4,Ti,4,Trigonal_willemite,4.88,3.02,,violet,2,Silicates
+Zn2SiO4:Ti4+,Zn2SiO4,Ti,4,Trigonal_willemite,3.40,3.02,,violet,0,Silicates
+Sr2SiO4:Eu2+,Sr2SiO4,Eu,2,Orthorhombic,4.88,2.23,0.60,yellow,2,Silicates
+Sr2SiO4:Eu2+,Sr2SiO4,Eu,2,Orthorhombic,3.40,2.23,0.60,yellow,0,Silicates
+SrBaSiO4:Eu2+,SrBaSiO4,Eu,2,,4.88,2.36,0.32,yellow,2,Silicates
+SrBaSiO4:Eu2+,SrBaSiO4,Eu,2,,3.40,2.36,0.32,yellow,1,Silicates
+Ba2SiO4:Eu2+,Ba2SiO4,Eu,2,Orthorhombic,4.88,2.44,0.28,green,2,Silicates
+Ba2SiO4:Eu2+,Ba2SiO4,Eu,2,Orthorhombic,3.40,2.44,0.28,green,1,Silicates
+BaSi2O5:Eu2+,BaSi2O5,Eu,2,Orthorhombic,4.88,2.46,0.50,green,2,Silicates
+BaSi2O5:Pb2+,BaSi2O5,Pb,2,Orthorhombic,4.88,3.54,0.39,UV,2,Silicates
+BaSi2O5:Pb2+,BaSi2O5,Pb,2,Orthorhombic,3.40,3.54,0.39,UV,0,Silicates
+Y2SiO5:Ce3+,Y2SiO5,Ce,3,,4.88,2.99,,violet,2,Silicates
+Y2SiO5:Ce3+,Y2SiO5,Ce,3,,3.40,2.99,,violet,1,Silicates
+CaMgSi2O6:Eu2+,CaMgSi2O6,Eu,2,Monoclinic_diopside,4.88,2.77,0.25,blue,2,Silicates
+CaMgSi2O6:Eu2+,CaMgSi2O6,Eu,2,Monoclinic_diopside,3.40,2.77,0.25,blue,2,Silicates
+Ca2MgSi2O7:Eu2+,Ca2MgSi2O7,Eu,2,Tetragonal_ackermanite,4.88,2.29,0.37,yellow,2,Silicates
+Ca2MgSi2O7:Eu2+,Ca2MgSi2O7,Eu,2,Tetragonal_ackermanite,3.40,2.29,0.37,yellow,2,Silicates
+Ca2MgSi2O7,Ca2MgSi2O7,,,Tetragonal_ackermanite,3.17,,,UV,,Silicates
+Sr2MgSi2O7:Eu2+,Sr2MgSi2O7,Eu,2,Tetragonal_ackermanite,4.88,2.68,0.27,blue,1,Silicates
+Ba2MgSi2O7:Eu2+,Ba2MgSi2O7,Eu,2,tetragonal_melinite,4.88,2.42,0.41,green,1,Silicates
+Ba2MgSi2O7:Eu2+,Ba2MgSi2O7,Eu,2,tetragonal_melinite,3.40,2.42,0.41,green,1,Silicates
+BaMg2Si2O7:Eu2+,BaMg2Si2O7,Eu,2,tetragonal_melinite,4.88,3.10,0.19,violet,2,Silicates
+BaMg2Si2O7:Eu2+,BaMg2Si2O7,Eu,2,tetragonal_melinite,3.40,3.10,0.19,violet,1,Silicates
+BaSrMgSi2O7:Eu2+,BaSrMgSi2O7,Eu,2,Ackermanite,4.88,2.82,0.27,blue,2,Silicates
+BaSrMgSi2O7:Eu2+,BaSrMgSi2O7,Eu,2,Ackermanite,3.40,2.82,0.27,blue,2,Silicates
+Ba2Li2Si2O7:Eu2+,Ba2Li2Si2O7,Eu,2,,4.88,2.44,0.30,green,2,Silicates
+Ba2Li2Si2O7:Eu2+,Ba2Li2Si2O7,Eu,2,,3.40,2.44,0.30,green,1,Silicates
+Ba2Li2Si2O7:Sn2+,Ba2Li2Si2O7,Sn,2,,4.88,2.89,0.22,violet,2,Silicates
+Ba2Li2Si2O7:Sn2+,Ba2Li2Si2O7,Sn,2,,3.40,2.89,0.22,violet,2,Silicates
+MgSrBaSi2O7:Eu2+,MgSrBaSi2O7,Eu,2,Ackermanite,4.88,2.82,0.27,blue,2,Silicates
+MgSrBaSi2O7:Eu2+,MgSrBaSi2O7,Eu,2,Ackermanite,3.40,2.82,0.27,blue,2,Silicates
+MgBa3Si2O8:Eu2+,MgBa3Si2O8,Eu,2,,4.88,2.82,0.22,blue,2,Silicates
+Sr3MgSi2O8:Eu2+,Sr3MgSi2O8,Eu,2,Ackermanite,4.88,2.70,0.23,blue,2,Silicates
+Sr3MgSi2O8:Eu2+,Sr3MgSi2O8,Eu,2,Ackermanite,3.40,2.70,0.23,blue,2,Silicates
+Ca5B2SiO10:Eu3+,Ca5B2SiO10,Eu,3,,4.88,2.03,,red,2,Silicates
+Ca5B2SiO10:Eu3+,Ca5B2SiO10,Eu,3,,3.40,2.03,,red,0,Silicates
+Ca3Al2Si3O12:Eu2+,Ca3Al2Si3O12,Eu,2,,,2.41,0.47,green,1,Silicates
+LiCeBa4Si4O14:Mn2+,LiCeBa4Si4O14,Mn,2,,4.88,2.02,0.24,red,2,Silicates
+LiCeBa4Si4O14:Mn2+,LiCeBa4Si4O14,Mn,2,,3.40,2.02,0.24,red,2,Silicates
+LiCeSrBa3Si4O14:Mn2+,LiCeSrBa3Si4O14,Mn,2,,4.88,1.99,0.23,red,2,Silicates
+LiCeSrBa3Si4O14:Mn2+,LiCeSrBa3Si4O14,Mn,2,,3.40,1.99,0.23,red,2,Silicates
+LaSiO3Cl:Ce3+,LaSiO3Cl,Ce,3,,4.88,3.56,,UV,2,Halosilicates
+LaSiO3Cl:Ce3+,LaSiO3Cl,Ce,3,,4.88,3.35,,UV,2,Halosilicates
+Ca3SiO4Cl2:Pb2+,Ca3SiO4Cl2,Pb,2,,4.88,3.44,0.39,UV,2,Halosilicates
+Ca3SiO4Cl2:Pb2+,Ca3SiO4Cl2,Pb,2,,3.40,3.44,0.39,UV,0,Halosilicates
+Ca3SiO4Cl2:Eu2+,Ca3SiO4Cl2,Eu,2,,4.88,2.41,0.31,green,1,Halosilicates
+Ca3SiO4Cl2:Eu2+,Ca3SiO4Cl2,Eu,2,,3.40,2.41,0.31,green,2,Halosilicates
+Ba5SiO4Cl6:Eu2+,Ba5SiO4Cl6,Eu,2,,4.88,2.82,0.19,blue,2,Halosilicates
+Ba5SiO4Cl6:Eu2+,Ba5SiO4Cl6,Eu,2,,3.40,2.82,0.19,blue,2,Halosilicates
+Sr5Si4O10Cl6:Eu2+,Sr5Si4O10Cl16,Eu,2,,4.88,2.52,0.38,green,2,Halosilicates
+Sr5Si4O10Cl6:Eu2+,Sr5Si4O10Cl16,Eu,2,,3.40,2.52,0.38,green,2,Halosilicates
+YPO4:Ce3+,YPO4,Ce,3,Tetragonal,4.88,3.49,,UV,2,Phosphates
+YPO4:Ce3+,YPO4,Ce,3,Tetragonal,3.40,3.49,,UV,0,Phosphates
+YPO4:Ce3+,YPO4,Ce,3,Tetragonal,4.88,3.71,,UV,2,Phosphates
+YPO4:Ce3+,YPO4,Ce,3,Tetragonal,3.40,3.71,,UV,0,Phosphates
+YPO4:Eu3+,YPO4,Eu,3,Tetragonal,4.88,,,orange,0,Phosphates
+YPO4:Eu3+,YPO4,Eu,3,Tetragonal,3.40,,,orange,0,Phosphates
+YPO4:V5+,YPO4,V,5,Tetragonal,4.88,2.99,0.56,blue,1,Phosphates
+LaPO4:Ce3+,LaPO4,Ce,3,Monoclinic_monazite,4.88,3.67,,UV,2,Phosphates
+LaPO4:Ce3+,LaPO4,Ce,3,Monoclinic_monazite,3.40,3.67,,UV,0,Phosphates
+LaPO4:Ce3+,LaPO4,Ce,3,Monoclinic_monazite,4.88,3.94,,UV,2,Phosphates
+LaPO4:Ce3+,LaPO4,Ce,3,Monoclinic_monazite,3.40,3.94,,UV,0,Phosphates
+LaPO4:Eu3+,LaPO4,Eu,3,Monoclinic_monazite,4.88,1.82,,red,1,Phosphates
+LaPO4:Eu3+,LaPO4,Eu,3,Monoclinic_monazite,3.40,1.82,,red,0,Phosphates
+LaPO4:Eu3+,LaPO4,Eu,3,Monoclinic_monazite,4.88,2.12,,orange,1,Phosphates
+LaPO4:Eu3+,LaPO4,Eu,3,Monoclinic_monazite,3.40,2.12,,orange,0,Phosphates
+CaP2O6:Mn2+,CaP2O6,Mn,2,,4.88,2.30,0.29,green,0,Phosphates
+CaP2O6:Mn2+,CaP2O6,Mn,2,,3.40,2.30,0.29,green,0,Phosphates
+Ca2P2O7:Ce3+,Ca2P2O7,Ce,3,Tetragonal,4.88,3.60,,blue,2,Phosphates
+Ca2P2O7:Ce3+,Ca2P2O7,Ce,3,Tetragonal,3.40,3.60,,blue,0,Phosphates
+Ca2P2O7:Ce3+,Ca2P2O7,Ce,3,Tetragonal,4.88,3.83,,UV,2,Phosphates
+Ca2P2O7:Ce3+,Ca2P2O7,Ce,3,Tetragonal,3.40,3.83,,UV,0,Phosphates
+Ca2P2O7:Eu2+,Ca2P2O7,Eu,2,Tetragonal,4.88,2.96,0.19,violet,2,Phosphates
+Ca2P2O7:Eu2+,Ca2P2O7,Eu,2,Tetragonal,3.40,2.96,0.19,violet,2,Phosphates
+MgCaP2O7:Mn2+,MgCaP2O7,Mn,2,Monoclinic ,,2.12,0.20,yellow,,Phosphates
+MgSrP2O7:Eu2+,MgSrP2O7,Eu,2,Monoclinic ,4.88,3.16,0.20,violet,2,Phosphates
+MgSrP2O7:Eu2+,MgSrP2O7,Eu,2,Monoclinic ,3.40,3.16,0.20,violet,1,Phosphates
+MgBaP2O7:Eu2+,MgBaP2O7,Eu,2,Monoclinic ,4.88,3.04,0.35,violet,2,Phosphates
+MgBaP2O7:Eu2+,MgBaP2O7,Eu,2,Monoclinic ,3.40,3.04,0.35,violet,2,Phosphates
+CaB2P2O9:Eu2+,CaB2P2O9,Eu,2,,4.88,3.08,0.21,violet,2,Phosphates
+CaB2P2O9:Eu2+,CaB2P2O9,Eu,2,,3.40,3.08,0.21,violet,2,Phosphates
+Ca3(PO4)2:Sn2+,Ca3(PO4)2,Sn,2,Monoclinic ,4.88,2.44,0.61,green,2,Phosphates
+Ca3(PO4)2:Sn2+,Ca3(PO4)2,Sn,2,Monoclinic ,3.40,2.44,0.61,green,0,Phosphates
+Ca3(PO4)2:Sn2+,Ca3(PO4)2,Sn,2,Trigonal ,4.88,1.92,0.55,orange,2,Phosphates
+Ca3(PO4)2:Sn2+,Ca3(PO4)2,Sn,2,Trigonal ,3.40,1.92,0.55,orange,0,Phosphates
+Ca3(PO4)2:Pb2+,Ca3(PO4)2,Pb,2,Monoclinic ,4.88,3.68,0.64,UV,2,Phosphates
+Ca3(PO4)2:Pb2+,Ca3(PO4)2,Pb,2,Monoclinic ,3.40,3.68,0.64,UV,0,Phosphates
+Ca3(PO4)2:Tl+,Ca3(PO4)2,Tl,1,Monoclinic ,4.88,3.88,0.66,UV,2,Phosphates
+Ca3(PO4)2:Tl+,Ca3(PO4)2,Tl,1,Monoclinic ,3.40,3.88,0.66,UV,0,Phosphates
+Ca3(PO4)2:Ce3+,Ca3(PO4)2,Ce,3,Monoclinic ,4.88,3.33,,UV,2,Phosphates
+Ca3(PO4)2:Ce3+,Ca3(PO4)2,Ce,3,Monoclinic ,3.40,3.33,,UV,0,Phosphates
+Ca3(PO4)2:Ce3+,Ca3(PO4)2,Ce,3,Monoclinic ,4.88,3.57,,UV,2,Phosphates
+Ca3(PO4)2:Ce3+,Ca3(PO4)2,Ce,3,Monoclinic ,3.40,3.57,,UV,0,Phosphates
+Ca3(PO4)2:Eu2+,Ca3(PO4)2,Eu,2,Monoclinic ,4.88,2.52,0.53,green,2,Phosphates
+Ca3(PO4)2:Eu2+,Ca3(PO4)2,Eu,2,Monoclinic ,3.40,2.52,0.53,green,2,Phosphates
+Ca3(PO4)2:Eu2+,Ca3(PO4)2,Eu,2,Trigonal ,4.88,3.02,0.33,violet,2,Phosphates
+Ca3(PO4)2:Eu2+,Ca3(PO4)2,Eu,2,Trigonal ,3.40,3.02,0.33,violet,2,Phosphates
+Sr3(PO4)2:Sn2+,Sr3(PO4)2,Sn,2,Trigonal ,4.88,3.28,0.66,violet,2,Phosphates
+Sr3(PO4)2:Sn2+,Sr3(PO4)2,Sn,2,Trigonal ,3.40,3.28,0.66,violet,0,Phosphates
+Sr3(PO4)2:Eu2+,Sr3(PO4)2,Eu,2,Trigonal ,4.88,2.94,0.22,violet,2,Phosphates
+Sr3(PO4)2:Eu2+,Sr3(PO4)2,Eu,2,Trigonal ,3.40,2.94,0.22,violet,1,Phosphates
+Ba3(PO4)2:Eu2+,Ba3(PO4)2,Eu,2,,4.88,2.99,0.25,violet,2,Phosphates
+Ba3(PO4)2:Eu2+,Ba3(PO4)2,Eu,2,,3.40,2.99,0.25,violet,1,Phosphates
+Na3Ce(PO4)2:Tb3+,Na3Ce(PO4)2,Tb,3,,4.88,2.27,,green,2,Phosphates
+Na3Ce(PO4)2:Tb3+,Na3Ce(PO4)2,Tb,3,,3.40,2.27,,green,0,Phosphates
+Zn3(PO4)2:Mn2+,Zn3(PO4)2,Mn,2,Monoclinic ,4.88,1.94,0.25,red,0,Phosphates
+Zn3(PO4)2:Mn2+,Zn3(PO4)2,Mn,2,Monoclinic ,3.40,1.94,0.25,red,0,Phosphates
+"(Zn,Mg)3(PO4)2:Mn2+","(Zn,Mg)3(PO4)2",Mn,2,Monoclinic ,4.88,1.96,0.27,red,0,Phosphates
+"(Zn,Mg)3(PO4)2:Mn2+","(Zn,Mg)3(PO4)2",Mn,2,Monoclinic ,3.40,1.96,0.27,red,0,Phosphates
+Mg3Ca3(PO4)4:Eu2+,Mg3Ca3(PO4)4,Eu,2,Monoclinic ,,2.80,0.48,blue,,Phosphates
+MgSr5(PO4)4:Sn2+,MgSr5(PO4)4,Sn,2,,4.88,1.93,0.49,red,2,Phosphates
+MgSr5(PO4)4:Sn2+,MgSr5(PO4)4,Sn,2,,3.40,1.93,0.49,red,0,Phosphates
+MgBa2(PO4)2:Sn2+,MgBa2(PO4)2,Sn,2,,4.88,2.36,0.67,green,2,Phosphates
+CaSr2(PO4)2:Bi3+,CaSr2(PO4)2,Bi,3,,4.88,3.89,0.27,blue,2,Phosphates
+CaSr2(PO4)2:Bi3+,CaSr2(PO4)2,Bi,3,,3.40,3.89,0.27,blue,0,Phosphates
+MgBa2(PO4)2:U,MgBa2(PO4)2,U,0,,4.88,,,green,2,Phosphates
+MgBa2(PO4)2:U,MgBa2(PO4)2,U,0,,3.40,,,green,2,Phosphates
+Sr2P2O7:Eu2+,Sr2P2O7,Eu,2,,4.88,2.97,0.29,violet,2,Phosphates
+Sr2P2O7:Eu2+,Sr2P2O7,Eu,2,,3.40,2.97,0.29,violet,2,Phosphates
+Ca5(PO4)3F:Mn2+,Ca5(PO4)3F,Mn,2,Hexagonal_apatite,4.88,2.17,0.28,yellow,0,Halophosphates
+Ca5(PO4)3F:Mn2+,Ca5(PO4)3F,Mn,2,Hexagonal_apatite,3.40,2.17,0.28,yellow,0,Halophosphates
+Ca5(PO4)3F:Sb3+,Ca5(PO4)3F,Sb,3,Hexagonal_apatite,4.88,2.50,0.70,green,2,Halophosphates
+Ca5(PO4)3F:Sb3+,Ca5(PO4)3F,Sb,3,Hexagonal_apatite,3.40,2.50,0.70,green,0,Halophosphates
+Ca5(PO4)3F:Sn2+,Ca5(PO4)3F,Sn,2,Hexagonal_apatite,4.88,3.00,0.90,blue,2,Halophosphates
+Ca5(PO4)3F:Sn2+,Ca5(PO4)3F,Sn,2,Hexagonal_apatite,3.40,3.00,0.90,blue,0,Halophosphates
+Ca5(PO4)3Cl:Eu2+,Ca5(PO4)3Cl,Eu,2,Hexagonal_apatite,4.88,2.72,0.23,blue,2,Halophosphates
+Ca5(PO4)3Cl:Eu2+,Ca5(PO4)3Cl,Eu,2,Hexagonal_apatite,3.40,2.72,0.23,blue,2,Halophosphates
+Ca5(PO4)3Cl:Mn2+,Ca5(PO4)3Cl,Mn,2,Hexagonal_apatite,4.88,2.10,0.29,yellow,0,Halophosphates
+Ca5(PO4)3Cl:Mn2+,Ca5(PO4)3Cl,Mn,2,Hexagonal_apatite,3.40,2.10,0.29,yellow,0,Halophosphates
+Ca5(PO4)3Cl:Sb2+,Ca5(PO4)3Cl,Sb,3,Hexagonal_apatite,4.88,2.38,0.70,green,2,Halophosphates
+Ca5(PO4)3Cl:Sb2+,Ca5(PO4)3Cl,Sb,3,Hexagonal_apatite,3.40,2.38,0.70,green,0,Halophosphates
+Ca5(PO4)3Cl:Sn2+,Ca5(PO4)3Cl,Sn,2,Hexagonal_apatite,4.88,1.95,,IR,2,Halophosphates
+Ca5(PO4)3Cl:Sn2+,Ca5(PO4)3Cl,Sn,2,Hexagonal_apatite,3.40,1.95,,IR,0,Halophosphates
+Ca5(PO4)3Cl:Sn2+,Ca5(PO4)3Cl,Sn,2,Hexagonal_apatite,4.88,3.45,,UV,2,Halophosphates
+Ca5(PO4)3Cl:Sn2+,Ca5(PO4)3Cl,Sn,2,Hexagonal_apatite,3.40,3.45,,UV,0,Halophosphates
+Sr5(PO4)3Cl:Eu2+,Sr5(PO4)3Cl,Eu,2,Hexagonal_apatite,4.88,2.75,0.19,blue,2,Halophosphates
+Sr5(PO4)3Cl:Eu2+,Sr5(PO4)3Cl,Eu,2,Hexagonal_apatite,3.40,2.75,0.19,blue,2,Halophosphates
+Sr5(PO4)3Cl:Mn2+,Sr5(PO4)3Cl,Mn,2,Hexagonal_apatite,4.88,2.16,0.32,yellow,0,Halophosphates
+Sr5(PO4)3Cl:Mn2+,Sr5(PO4)3Cl,Mn,2,Hexagonal_apatite,3.40,2.16,0.32,yellow,0,Halophosphates
+Sr5(PO4)3Cl:Sb3+,Sr5(PO4)3Cl,Sb,3,Hexagonal_apatite,4.88,2.31,0.68,green,2,Halophosphates
+Sr5(PO4)3Cl:Sb3+,Sr5(PO4)3Cl,Sb,3,Hexagonal_apatite,3.40,2.31,0.68,green,0,Halophosphates
+Sr5(PO4)3F:Mn2+,Sr5(PO4)3F,Mn,2,Hexagonal_apatite,4.88,2.17,0.28,yellow,0,Halophosphates
+Sr5(PO4)3F:Mn2+,Sr5(PO4)3F,Mn,2,Hexagonal_apatite,3.40,2.17,0.28,yellow,0,Halophosphates
+Sr5(PO4)3F:Sb3+,Sr5(PO4)3F,Sb,3,Hexagonal_apatite,4.88,2.43,0.75,green,2,Halophosphates
+Sr5(PO4)3F:Sb3+,Sr5(PO4)3F,Sb,3,Hexagonal_apatite,3.40,2.43,0.75,green,0,Halophosphates
+Sr5(PO4)3F:Sn2+,Sr5(PO4)3F,Sn,2,Hexagonal_apatite,4.88,2.75,0.75,blue,2,Halophosphates
+Sr5(PO4)3F:Sn2+,Sr5(PO4)3F,Sn,2,Hexagonal_apatite,3.40,2.75,0.75,blue,0,Halophosphates
+Ba5(PO4)3Cl:Eu2+,Ba5(PO4)3Cl,Eu,2,Hexagonal_apatite,4.88,2.84,0.28,blue,2,Halophosphates
+Ba5(PO4)3Cl:Eu2+,Ba5(PO4)3Cl,Eu,2,Hexagonal_apatite,3.40,2.84,0.28,blue,2,Halophosphates
+Ba5(PO4)3Cl:U,Ba5(PO4)3Cl,U,0,Hexagonal_apatite,4.88,2.30,0.20,green,2,Halophosphates
+Ba5(PO4)3Cl:U,Ba5(PO4)3Cl,U,0,Hexagonal_apatite,3.40,2.30,0.20,green,1,Halophosphates
+Ca2Ba3(PO4)3Cl:Eu2+,Ca2Ba3(PO4)3Cl,Eu,2,Hexagonal_apatite,4.88,2.46,0.49,green,2,Halophosphates
+Ca2Ba3(PO4)3Cl:Eu2+,Ca2Ba3(PO4)3Cl,Eu,2,Hexagonal_apatite,3.40,2.46,0.49,green,2,Halophosphates
